@@ -87,16 +87,6 @@ const sanjeevKumar = {
 };
 ```
 
-## GitHub Analytics
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ##  Featured Projects
 
 ###  Banking System - Java Swing
